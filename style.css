@@ -1,0 +1,57 @@
+body {
+	background: url('../images/trackman-simulator.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+#container {
+	width: 540px;
+	height: 720px;
+	color: forestgreen;
+	font-weight: 700;
+	padding: 25px;
+}
+
+h1 {
+	font-size: 80px;
+	-webkit-text-stroke: 3px black;
+
+}
+
+h2 {
+	background: lightskyblue;
+	padding: 15px;
+	border-radius: 20px;
+	text-align: center;
+
+}
+
+a {
+	color: #7DACE3;
+	text-decoration: none;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	font-style: italic;
+	background: black;
+	padding: 10px;
+	border-radius: 30px;
+	border-style: double;
+	text-align: center;
+}
+
+ul {
+	background: black;
+	font-family: 'Lato', sans-serif;
+	padding: 10px;
+	border-radius: 30px;
+	border-style: double;
+	font-style: italic;
+	text-align: center;
+}
